@@ -34,7 +34,7 @@ const App = () => {
         filterData={filterData}
       />
 
-      {/* <Cards/> */}
+      <Cards courses={courses}/>
     </div>
   );
 };
